@@ -3,10 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Table of Contents
 
+<img align="right" srcset="https://i.imgsafe.org/2c/2c024270b3.gif, https://i.imgsafe.org/2c/2c024270b3.gif 1.5x, https://i.imgsafe.org/2c/2c024270b3.gif 2x" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
+
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 
-<img align="right" srcset="src/logo.svg, src/logo.svg 1.5x, src/logo.svg 2x" src="src/logo.svg" width="100px;"  />
+
 
 ## Updating to New Releases
 
