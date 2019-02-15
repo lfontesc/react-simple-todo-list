@@ -38,7 +38,7 @@ my-app/
 
 ## Available Scripts
 
-<img align="right" srcset="src/logo.svg, src/logo.svg 1.5x, src/logo.svg 2x" src="src/logo.svg" heigth="110px;"  />
+<img align="right" src="src/logo.svg" heigth="110px;"  />
 In the project directory, you can run:
 
 
