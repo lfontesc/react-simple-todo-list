@@ -5,8 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 
-<img align="right" src="src/logo.svg" width="150px;" />
-
+<img align="right" srcset="src/logo.svg, src/logo.svg 1.5x, src/logo.svg 2x" src="src/logo.svg" width="150px;" />
 
 ## Updating to New Releases
 
