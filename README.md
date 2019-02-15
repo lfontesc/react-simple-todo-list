@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+<img align="right" srcset="src/logo.svg, src/logo.svg 1.5x, src/logo.svg 2x" src="src/logo.svg" width="100px;"  />
 
 ## Table of Contents
 
