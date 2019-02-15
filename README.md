@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 
+<img align="right" srcset="https://drive.google.com/file/d/1RyxIh9ByZqhklA0NxM0Nz3EDtMFfzr9_/preview, https://drive.google.com/file/d/1RyxIh9ByZqhklA0NxM0Nz3EDtMFfzr9_/preview 1.5x, https://drive.google.com/file/d/1RyxIh9ByZqhklA0NxM0Nz3EDtMFfzr9_/preview 2x" src="https://drive.google.com/file/d/1RyxIh9ByZqhklA0NxM0Nz3EDtMFfzr9_/preview" width="150px;" />
+
 
 ## Updating to New Releases
 
